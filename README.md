@@ -7,7 +7,7 @@ With expertise in strategy analytics, market intelligence, I'm passionate about 
 Currently, I'm open to opportunities in roles such as Data Analyst, Business Intelligence Analyst, Strategy Analytics.
 
 ## Projects 🗂️ 
-Welcome to my portfolio, where I showcase my [projects]((https://github.com/adwise1990/portfolio)
+Welcome to my portfolio, where I showcase my [projects](https://github.com/adwise1990/portfolio)
 
 ## Tools 🛠️
 
