@@ -12,6 +12,8 @@ Welcome to my portfolio, where I showcase my [projects](https://pages.github.com
 ## Tools 🛠️
 
 Python: NumPy, Pandas, Matplotlib, Plotly
+
 Database: PostgreSQL, MySQL, SQL Server
+
 Business Intelligence: Power BI, PowerQuery
 
